@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/points/static/css/main.654841fc.chunk.css",
+    "main.js": "/points/static/js/main.8fbd392b.chunk.js",
+    "main.js.map": "/points/static/js/main.8fbd392b.chunk.js.map",
+    "runtime-main.js": "/points/static/js/runtime-main.1b59a89c.js",
+    "runtime-main.js.map": "/points/static/js/runtime-main.1b59a89c.js.map",
+    "static/js/2.f6c22d89.chunk.js": "/points/static/js/2.f6c22d89.chunk.js",
+    "static/js/2.f6c22d89.chunk.js.map": "/points/static/js/2.f6c22d89.chunk.js.map",
+    "index.html": "/points/index.html",
+    "precache-manifest.b04b2cba4c6b0e1de339107b6f3eb768.js": "/points/precache-manifest.b04b2cba4c6b0e1de339107b6f3eb768.js",
+    "service-worker.js": "/points/service-worker.js",
+    "static/css/main.654841fc.chunk.css.map": "/points/static/css/main.654841fc.chunk.css.map",
+    "static/media/index.css": "/points/static/media/Adobe+Garamond+Pro+Regular.402c0c3f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b59a89c.js",
+    "static/js/2.f6c22d89.chunk.js",
+    "static/css/main.654841fc.chunk.css",
+    "static/js/main.8fbd392b.chunk.js"
+  ]
+}
